@@ -8,5 +8,17 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vladpivovarov/StartProject.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vladpivovarov/StartProject/issues"
+  },
+  "homepage": "https://github.com/vladpivovarov/StartProject#readme",
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "normalize.css": "^7.0.0"
+  }
 }
